@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NYAM</string>
+    <string name="app_system">Food Recomendation System</string>
+    <string name="app_title">NYAM (Not Your Average Menu)</string>
+
+    <string-array name="onboard_header">
+        <item>
+            Welcome to NYAM!
+        </item>
+        <item>
+            Find Meal Suggestions from a Photo
+        </item>
+        <item>
+            Track Your Daily Nutrition and Calories
+        </item>
+    </string-array>
+
+    <string-array name="onboard_desc">
+        <item>
+            We’re here to help you achieve a balanced and nutritious diet.
+            Discover more about the food you eat and find the best choices for your body’s needs!
+        </item>
+        <item>
+            Upload a photo of your ingredients, and get healthy meal recommendations
+            tailored to your body.
+        </item>
+        <item>
+            NYAM helps you monitor your daily calorie intake and offers meal recommendations based
+            on what’s in your pantry.
+        </item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_now"><u>Register Now</u></string>
+    <string name="please_fill_your_personal_data">Please fill your personal data.</string>
+    <string name="tell_me_more_about_yourself">Tell me more about yourself</string>
+    <string name="submit">Submit</string>
+    <string name="profile">profile</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_history">History</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="bottom_nav_title">⬤</string>
+    <string name="image_food">Image of the food</string>
+    <string name="food_placeholder">Nasi Goreng</string>
+    <string name="calories_placeholder">633</string>
+    <string name="calories">calories</string>
+</resources>
