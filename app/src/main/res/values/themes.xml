@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NYAM" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/main_color</item>
+        <item name="colorSecondary">#77574e</item>
+        <item name="colorTertiary">#77574e</item>
+        <item name="colorPrimaryContainer">#ffdbd1</item>
+        <item name="colorSecondaryContainer">@color/main_color_33</item>
+
+
+         <item name="actionBarStyle">@style/MyActionBar</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="Theme.NYAM" parent="Base.Theme.NYAM" />
+
+    <style name="ImageView.Corner" parent="">
+        <item name="cornerSizeTopRight">8dp</item>
+        <item name="cornerSizeTopLeft">8dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+
+</resources>
